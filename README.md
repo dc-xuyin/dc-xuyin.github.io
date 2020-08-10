@@ -1,2 +1,3 @@
-# dc-xuyin.github.io
-personal blog
+# SHIRLEY XU's Personal Blog
+
+Live version @ [dc-xuyin.github.io](https://dc-xuyin.github.io)
