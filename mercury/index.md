@@ -74,7 +74,7 @@ extra_css:
       // very wide, but not very tall
       this.font = '900 ' + this.textSize + 'px monospace';
       this.context.font = this.font;
-      this.text = "metaverse";
+      this.text = "mercury";
       this.textWidth = (this.context.measureText(this.text)).width;
 
       this.fps = 11;
