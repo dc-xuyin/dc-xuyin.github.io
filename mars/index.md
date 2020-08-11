@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Publications
+title: Mars
 image: /images/header/publications.png
 ---
 
