@@ -1,9 +1,7 @@
 ---
 layout: mercury-index
 title: mercury
-image: /images/mercury/1.jpg
-extra_css:
-  - css/base.css
+image: /images/mercury/2.jpg
 ---
 
   <canvas id="stage" height="300"></canvas>
