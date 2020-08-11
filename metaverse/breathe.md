@@ -1,7 +1,7 @@
 ---
-layout: metaverse
+layout: mercury
 title: breathe
-image: /images/metaverse/1.jpg
+image: /images/mercury/1.jpg
 extra_css: 
     - css/base.css
     - css/breathe.css
